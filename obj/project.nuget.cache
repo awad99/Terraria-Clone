@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfacWA/cUbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\awado\\OneDrive\\سطح المكتب\\for game engine\\hiroma-doom\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\awado\\.nuget\\packages\\lidgren.network\\1.0.2\\lidgren.network.1.0.2.nupkg.sha512",
+    "C:\\Users\\awado\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\awado\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Lidgren.Network 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Lidgren.Network",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
